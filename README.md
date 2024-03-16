@@ -8,7 +8,7 @@ Throughout my academic journey, I earned a Bachelor’s degree in Atmospheric Sc
 
 ## Professional affiliations
 
-
+**[YOUNG EARTH SYSTEM SCIENTISTS COMMUNITY](https://www.yess-community.org/)** | Member since 2023
 
 
 <!-- Here are some ideas to get you started:
