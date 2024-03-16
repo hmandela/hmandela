@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Mandela Houngnibo**, an agro-hydro-meteorologist serving as a junior expert at AGRHYMET RCC-WAS. You might know me from such hits as the world's largest collection of Covid-19 data, the public data set on the 2019 Samoan measles outbreak, the public data set on the 2018 West African EBOV outbreak and the first community-driven book on Julia. My book, The Computational Modeling of Infectious Disease, is now available at all good booksellers and of course Amazon. I rant about things here – recently, mostly about LLMs.
+I'm **Mandela Houngnibo**, an agro-hydro-meteorologist serving as a junior expert at AGRHYMET RCC-WAS. Previously, I worked at METEO BENIN as the Head of the Studies and Meteorological Development Section.
 
 
 <!-- Here are some ideas to get you started:
