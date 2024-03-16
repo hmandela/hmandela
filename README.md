@@ -5,7 +5,7 @@ I'm **Mandela Houngnibo**, an agro-hydro-meteorologist serving as a junior exper
 ## Bio
 Throughout my academic journey, I earned a Bachelor’s degree in Atmospheric Sciences and pursued a Master’s degree in Agrometeorology. I'm currently a PhD candidate in agriculture and water sciences. You can find a [list of my publications here](https://scholar.google.com/citations?hl=en&user=-wzU1PAAAAAJ&view_op=list_works&sortby=title).
 
-## Key research interests
+## 
 
 ## Some papers
 
