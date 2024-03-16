@@ -2,6 +2,8 @@
 
 I'm **Mandela Houngnibo**, an agro-hydro-meteorologist serving as a junior expert at AGRHYMET RCC-WAS. Previously, I worked at METEO BENIN as the Head of the Studies and Meteorological Development Section.
 
+## Bio
+
 
 <!-- Here are some ideas to get you started:
 
