@@ -3,7 +3,11 @@
 I'm **Mandela Houngnibo**, an agro-hydro-meteorologist serving as a junior expert at AGRHYMET RCC-WAS. Previously, I worked at METEO BENIN as the Head of the Studies and Meteorological Development Section.
 
 ## Bio
-Throughout my academic journey, I earned a Bachelor’s degree in Atmospheric Sciences and proceeded to pursue a Master’s degree in Agrometeorology. I'm currently a PhD candidate in agriculture and water sciences. You can find a [list of my publications here](papers).
+Throughout my academic journey, I earned a Bachelor’s degree in Atmospheric Sciences and pursued a Master’s degree in Agrometeorology. I'm currently a PhD candidate in agriculture and water sciences. You can find a [list of my publications here](papers).
+
+## Key research interests
+
+## Some papers
 
 <!-- Here are some ideas to get you started:
 
