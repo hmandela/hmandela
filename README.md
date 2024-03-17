@@ -11,7 +11,9 @@ Throughout my academic journey, I earned a Bachelor’s degree in Atmospheric Sc
 **[YOUNG EARTH SYSTEM SCIENTISTS COMMUNITY](https://www.yess-community.org/)** | Member since 2023
 
 ## Student projects I have supervised
-Here are some []()
+[Here are some](https://github.com/hmandela/Student-projects-I-have-supervised)
+
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
